@@ -23,6 +23,7 @@
      <dependency> 
 	<groupId>org.apache.maven.plugins</groupId>
 	<artifactId>maven-war-plugin</artifactId>
+	<packaging>war</packaging>
 	<version>2.4</version>
 	</dependency>   
     <dependency>
